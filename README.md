@@ -1,2 +1,0 @@
-# Quizs
-Created with CodeSandbox
